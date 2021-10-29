@@ -1,4 +1,4 @@
-### Hi there  Hello,  this is Jason Deng. 🌱 I’m currently learning java,go .📫I am engaged in computer-related work and I am very interested in the cause of open source software.👋
+### Hi there  Hello,  this is Jason Deng. 🌱 I’m currently learning java,go .📫I am engaged in computer-related work and  very interested in the cause of open source software.👋
 
 <!--
 **jasondeng1997/jasondeng1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
