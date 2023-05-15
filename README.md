@@ -15,4 +15,4 @@
 -  **Job :** a mini backend developer in ShangHai
 -  **Contact me :** [jasondeng1997](mailto:15301580353@163.com)
 
-![ ](https://raw.githubusercontent.com/hoochanlon/hoochanlon/master/assets/github-contribution-grid-snake.svg)
+
