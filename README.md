@@ -1,7 +1,7 @@
 
 ###  :man_technologist:  Jason Deng
 
-👋 Hi guys,I am Jason Deng, Apache Dubbo Committer, member of seata-go . A cloud native middleware engineer from Shanghai, China, graduated from NJAU, software engineering bachelor’s degree. Person in charge of Codec messenger 2 for Java and Go interworking https://github.com/kitex-contrib/codec-hessian2 ，I Mainly research microservices, cloud-native, Golang, Committer of apache/dubbo, apache/rocketmq, seata, cloudwego/kitex and so on.
+👋 Hi guys,I am Jason Deng, Apache Dubbo Committer, Seata-go maintainer . A cloud native middleware engineer from Shanghai, China, graduated from NJAU, software engineering bachelor’s degree. Person in charge of Codec messenger 2 for Java and Go interworking https://github.com/kitex-contrib/codec-hessian2 ，I Mainly research microservices, cloud-native, Golang, Committer of apache/dubbo, apache/rocketmq, seata, cloudwego/kitex and so on.
 
 ### About Me
 
