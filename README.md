@@ -20,6 +20,6 @@
 -  **Skills :** Golang, Java, Distributed, Infrastructure...
 -  **Hobbies :** Coding
 -  **Job :** a mini backend developer in ShangHai
--  **Contact me :** [jasondeng1997](mailto:15301580353@163.com)
+-  **Contact me :** 15301580353@163.com
 
 
