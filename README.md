@@ -1,7 +1,7 @@
 
 ###  :man_technologist:  Jason Deng
 
-👋 Hi guys, I am Jason Deng, Apache Dubbo Committer, Seata-go maintainer. Working in Bosch, a cloud native middleware engineer from Shanghai, China, software engineering bachelor's degree.I mainly research microservices, cloud-native, Golang, Committer of apache/dubbo, apache/rocketmq, seata and so on. Special Lecturer at the GOTC Global Open Source Technology Summit
+👋 Hi guys, I am Jason Deng, Apache Dubbo Committer, Seata-go maintainer. a cloud native middleware engineer from Shanghai, China, software engineering bachelor's degree.I mainly research microservices, cloud-native, Golang, Committer of apache/dubbo, apache/rocketmq, seata and so on. Special Lecturer at the GOTC Global Open Source Technology Summit
 
 ### About Me
 
